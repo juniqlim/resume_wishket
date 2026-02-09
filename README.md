@@ -47,9 +47,9 @@
 * 성과를 높이는 도구로 [이너게임](https://github.com/juniqlim/note/blob/master/programming/inner-game-coaching.md)을 활용합니다.
   * 나 자신에게도, 동료에게도 평가보다 관찰을, 지시보다 질문을 먼저 합니다. 
   * "잘해야 한다"고 채근하는 것이 오히려 성과를 방해할 때가 많았습니다.
-* 에이전틱 코딩을 적극적으로 사용합니다.
+* [에이전틱 코딩](https://github.com/juniqlim/note/blob/master/programming/better-agentic-coding.md)을 적극적으로 사용합니다.
   * 에이전트가 직접 검증할 수 있도록 코칭해서, 진행속도와 품질을 높이려 합니다.
-  * 동작하는 작은 코드를 테스트부터 만들고, 매우 작은 주기로 회고하는 방식이 에이전틱 코딩과 잘 맞는다고 생각합니다. 
+  * 동작하는 작은 코드를 테스트부터 만들고, 매우 작은 주기로 회고하는 방식이 에이전틱 코딩과 잘 맞는다고 생각합니다.
 
 ## 교육
 * NEXTSTEP - [TDD, 클린 코드 with Java](https://github.com/juniqlim/note/blob/master/programming/2023-01-08-nextstep-tdd-review.md) (2021.03 ~ 2021.05) 
